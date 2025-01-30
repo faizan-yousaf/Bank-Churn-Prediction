@@ -4,6 +4,6 @@ matplotlib
 seaborn
 plotly
 scikit-learn
+mlxtend
 xgboost
 tensorflow
-mlxtend
